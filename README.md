@@ -1,7 +1,7 @@
 # Local Weather And Rainfall Prediction
 
 ## Objective
-Weather is a continuous, data-intensive, multidimensional, dynamic and chaotic process and these properties make weather prediction a big challenge.Building a hybrid approach, that has the capability to deal with linear and nonlinear relationships which is best suitable in most applications, is the approach here.
+Weather is a continuous, data-intensive, multidimensional, dynamic and chaotic process and these properties make weather prediction a big challenge. Building a hybrid approach, that has the capability to deal with linear and nonlinear relationships which is best suitable in most applications, is the objective here.
 
 ## Solution
 Weather forecasting has become an important field of research in the last few decades. Establishing a linear relationship between the input weather data and the corresponding target data is always preferred. But with the discovery of nonlinearity in the nature of weather data, the focus has shifted towards the nonlinear prediction of the weather data.
