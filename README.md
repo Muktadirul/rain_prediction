@@ -15,6 +15,15 @@ To achieve this second goal, a Hybrid Time series prediction model is built, whi
 The data for mean annual rainfall over Bhubaneshwar region of Odisha, India has been used for the study. It consists of the data values of the factors such as date, temperature, dew point, humidity, wind speed, wind gust, direction, viscosity, pressure, precipitation, precipitation rate, total precipitation, condition, fog, rain, snow, hail, thunder and tornado. The data is recorded at a time interval of 30 minutes and consists of one year data, starting from January 2017 to January 2018.
 
 ## Tech Stack Used 
+Environment : Python3
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. Statsmodels
+6. Sklearn
+7. Tensorflow
+8. Keras
 
 
 
